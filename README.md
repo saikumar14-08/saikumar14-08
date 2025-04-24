@@ -74,33 +74,6 @@ AI-powered movie search and recommendation engine using OpenAI and Firebase.
 
 ---
 
----
-
-### 📚 Soft Skills & Certifications
-
-#### ✅ Soft Skills
-<p>
-  <img src="https://img.shields.io/badge/Collaboration-blueviolet?style=flat-square" />
-  <img src="https://img.shields.io/badge/Communication-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Problem%20Solving-green?style=flat-square" />
-  <img src="https://img.shields.io/badge/Adaptability-ff69b4?style=flat-square" />
-</p>
-
-#### 🎓 Certifications
-<p>
-  <img src="https://img.shields.io/badge/AWS%20Cloud%20Foundations-orange?style=flat-square&logo=amazonaws" />
-  <img src="https://img.shields.io/badge/Agile%20Scrum-yellow?style=flat-square&logo=scrumalliance" />
-</p>
-
-#### 🛠 Tools
-<p>
-  <img src="https://img.shields.io/badge/Jira-blue?style=flat-square&logo=jira" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Notion-black?style=flat-square&logo=notion" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-</p>
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
