@@ -89,7 +89,7 @@ AI-powered movie search and recommendation engine using OpenAI and Firebase.
 ### 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=saikumar14-08&theme=tokyonight&hide_border=true" />
+  <img src="https://github-streak-stats-one.vercel.app/?user=saikumar14-08&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
