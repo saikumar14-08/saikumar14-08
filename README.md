@@ -1,3 +1,10 @@
+<!-- HEADER SECTION WITH ASCII ART & BIO SIDE-BY-SIDE -->
+<table>
+  <tr>
+    <td>
+
+<!-- ASCII ART (LEFT SIDE) -->
+<pre>
                   .:=+*##%%#**=-:                 
                .:+#%%%%%%%%%%%%%%+:               
               :+%%%%%%%%%%%%%%%%%%%+:                  
@@ -24,16 +31,25 @@
         :--------*#+++++++++***++++*%#=:              
    .:--------::::-=*++==++++++++++++##+---::           
 ::--:--::-----:::---+++==+++++++++++##=--------:      
-:::::::::::---::::--:-+++===++++++=+**=-------------:  
+:::::::::::---::::--:-+++===++++++=+**=-------------: 
+</pre>
 
-``` ```
-<h2 align="center">👋 Hi, I'm Sai Kumar Reddy Boreddy</h2>
+</td>
+<td>
 
-<p align="center">
-  🎓 Graduate Assistant @ SEMO | 💻 Full Stack Dev (React, Node, AWS)<br>
-  🧠 Passionate about scalable systems & real-time apps<br>
-  📫 saikumar9808@gmail.com • 🌐 <a href="https://www.linkedin.com/in/sai-boreddy/">LinkedIn</a> • 💻 <a href="https://github.com/saikumar14-08">GitHub</a>
-</p>
+<!-- BIO + CONTACTS (RIGHT SIDE) -->
+<h2>👋 Hi, I'm Sai Kumar Reddy Boreddy</h2>
+
+🎓 Graduate Assistant @ SEMO  
+💻 Full Stack Dev (React, Node, AWS)  
+🧠 Passionate about scalable systems & real-time apps  
+📫 saikumar9808@gmail.com  
+🌐 [LinkedIn](https://www.linkedin.com/in/sai-boreddy/)  
+💻 [GitHub](https://github.com/saikumar14-08)
+
+</td>
+  </tr>
+</table>
 
 ---
 
