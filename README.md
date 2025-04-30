@@ -47,11 +47,12 @@
 <h2>👋 Hi, I'm Sai Kumar Reddy Boreddy</h2>
 
 🎓 Graduate Assistant @ SEMO  
-💻 Full Stack Dev (React, Node, AWS)  
+💻 **Full Stack Dev** (React, Node, AWS)  
 🧠 Passionate about scalable systems & real-time apps  
 📫 saikumar9808@gmail.com  
-🌐 <a href="https://www.linkedin.com/in/sai-boreddy/">LinkedIn</a>  
-💻 <a href="https://github.com/saikumar14-08">GitHub</a>  
+📄 [Resume](https://drive.google.com/file/d/1uPOeGIpFoaiCtq4g0zDeux4mOnAua6q2/view?usp=sharing)  
+🌐 [LinkedIn](https://www.linkedin.com/in/sai-boreddy/)  
+💻 [GitHub](https://github.com/saikumar14-08)
 
 <br>
 
