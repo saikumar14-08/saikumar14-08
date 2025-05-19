@@ -50,7 +50,7 @@
 💻 **Full Stack Dev** (React, Node, AWS)  
 🧠 Passionate about scalable systems & real-time apps  
 📫 saikumar9808@gmail.com  
-📄 [Resume](https://drive.google.com/file/d/1hQ175MbGVVrqna0d3zyYLXAi7CAWQqvU/view?usp=drive_link/)
+📄 [Resume](https://drive.google.com/file/d/1hQ175MbGVVrqna0d3zyYLXAi7CAWQqvU/view?usp=drive_link/)<br>
 🌐 [LinkedIn](https://www.linkedin.com/in/sai-boreddy/)  
 💻 [GitHub](https://github.com/saikumar14-08)
 
