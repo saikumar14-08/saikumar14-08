@@ -50,7 +50,7 @@
 
 ### 🚀 Projects
 
-#### 🔗 [DevConnekt](https://www.devconnekt.com/)
+#### 🔗 [Dev Connect](https://www.devconnekt.com/)
 Real-time developer networking app using WebSockets, MongoDB, JWT, AWS EC2 + SES.
 
 <p>
@@ -62,7 +62,7 @@ Real-time developer networking app using WebSockets, MongoDB, JWT, AWS EC2 + SES
 
 ---
 
-#### 🎬 [FlixGPT](https://saiflixgpt.netlify.app/)
+#### 🎬 [Flix GPT](https://saiflixgpt.netlify.app/)
 AI-powered movie search and recommendation engine using OpenAI and Firebase.
 
 <p>
