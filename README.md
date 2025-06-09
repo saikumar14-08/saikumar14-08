@@ -5,7 +5,7 @@
 </div>
       <h2>🚀 About Me</h2>
       <p>
-        Full Stack Developer with 4+ years of experience building scalable web applications using the MERN stack and
+        Full Stack Developer with 5 years of experience building scalable web applications using the MERN stack and
 AWS. Strong background in Micro Frontend architecture, REST APIs, and performance optimization. Proven
 track record of improving user engagement and system efficiency. Looking to join a collaborative team that
 values innovation, clean architecture, and impact-driven development.
