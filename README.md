@@ -64,7 +64,7 @@ values innovation, clean architecture, and impact-driven development.
 
 **Impact:**  
 ✔️ Achieved 90% uptime on AWS EC2 infrastructure. <br>
-✔️ Reduced latency by 40% with WebSocket implementation.  
+✔️ Reduced latency by 40% with WebSocket implementation. Implemented docker and aws fargate.
 ✔️ Automated deployment process reduced release time by 60%.
 
 <p align="center">
