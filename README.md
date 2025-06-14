@@ -1,7 +1,7 @@
 <!-- HEADER SECTION -->
 <div align="center">
   <h1>👨‍💻 Sai Kumar Reddy Boreddy</h1>
-  <h3>Full Stack Developer | AWS Enthusiast | Building Scalable Web Applications</h3>
+  <h3>Full Stack(MERN) Developer | Building Scalable Web Applications</h3>
 </div>
       <h2>🚀 About Me</h2>
       <p>
