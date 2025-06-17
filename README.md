@@ -1,7 +1,7 @@
 <!-- HEADER SECTION -->
 <div align="center">
   <h1>👨‍💻 Sai Kumar Reddy Boreddy</h1>
-  <h3>Full Stack(MERN) Developer | Building Scalable Web Applications</h3>
+  <h3>Full Stack(MERN) Developer | Passionate to build Web apps.</h3>
 </div>
       <h2>🚀 About Me</h2>
       <p>
@@ -63,7 +63,7 @@ values innovation, clean architecture, and impact-driven development.
 - CI/CD pipeline with Jenkins
 
 **Impact:**  
-✔️ Achieved 90% uptime on AWS EC2 infrastructure. <br>
+✔️ Achieved 90% uptime on AWS EC2 infrastructure. Also implemented hosting docker container with AWS ECS fargate. <br>
 ✔️ Reduced latency by 40% with WebSocket implementation. Implemented docker and aws fargate.
 ✔️ Automated deployment process reduced release time by 60%.
 
