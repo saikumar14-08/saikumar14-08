@@ -71,7 +71,7 @@ values innovation, clean architecture, and impact-driven development.
   <a href="https://www.devconnekt.com/">
     <img src="https://img.shields.io/badge/Live_Demo-FF6C37?style=for-the-badge&logo=webcomponents.org&logoColor=white" />
   </a>
-  <a href="https://github.com/saikumar14-08/dev-connect">
+  <a href="https://github.com/saikumar14-08/DevConnect-Web">
     <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
