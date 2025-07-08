@@ -12,16 +12,16 @@ values innovation, clean architecture, and impact-driven development.
       </p>      
       <h3>📫 Get in Touch</h3>
       <p>
-        <a target='_blank' href="mailto:saikumar9808@gmail.com">
+        <a target='_blank' rel="noopener noreferrer"  href="mailto:saikumar9808@gmail.com">
           <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
         </a>
-        <a target='_blank' href="https://www.linkedin.com/in/sai-boreddy/">
+        <a target='_blank' rel="noopener noreferrer"  href="https://www.linkedin.com/in/sai-boreddy/">
           <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
         </a>
-        <a target='_blank' href="https://github.com/saikumar14-08">
+        <a target='_blank' rel="noopener noreferrer"  href="https://github.com/saikumar14-08">
           <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
         </a>
-        <a target='_blank' href="https://drive.google.com/file/d/1E7pCD32Zv1OJyC6N5q21sOzhGLmKKJ5T/view?usp=sharing">
+        <a target='_blank' rel="noopener noreferrer"  href="https://drive.google.com/file/d/1E7pCD32Zv1OJyC6N5q21sOzhGLmKKJ5T/view?usp=sharing">
           <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" />
         </a>
       </p>
