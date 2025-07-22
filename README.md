@@ -1,101 +1,91 @@
 <!-- HEADER SECTION -->
 <div align="center">
-  <h1>👨‍💻 Sai Kumar Reddy Boreddy</h1>
-  <h3>Full Stack(MERN) Developer | Passionate to build Web apps.</h3>
+  <h1>👨‍💻 Sai Boreddy</h1>
+  <h3>.NET Full Stack Developer | Building Scalable, Secure Enterprise Applications</h3>
 </div>
-      <h2>🚀 About Me</h2>
-      <p>
-        Full Stack Developer with 5 years of experience building scalable web applications using the MERN stack and
-AWS. Strong background in Micro Frontend architecture, REST APIs, and performance optimization. Proven
-track record of improving user engagement and system efficiency. Looking to join a collaborative team that
-values innovation, clean architecture, and impact-driven development.
-      </p>      
-      <h3>📫 Get in Touch</h3>
-      <p>
-        <a target='_blank' rel="noopener noreferrer"  href="mailto:saikumar9808@gmail.com">
-          <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-        </a>
-        <a target='_blank' rel="noopener noreferrer"  href="https://www.linkedin.com/in/sai-boreddy/">
-          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-        </a>
-        <a target='_blank' rel="noopener noreferrer"  href="https://github.com/saikumar14-08">
-          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-        <a target='_blank' rel="noopener noreferrer"  href="https://drive.google.com/file/d/1E7pCD32Zv1OJyC6N5q21sOzhGLmKKJ5T/view?usp=sharing">
-          <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" />
-        </a>
-      </p>
-      <h3>🛠 Tech Stack</h3>
-      <p>    
-        <strong>Frontend:</strong><br>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> 
-        <br>       
-        <strong>Backend:</strong><br>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-        <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
-        <br>
-        <strong>Databases:</strong><br>
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-        <br>
-        <strong>DevOps & Cloud:</strong><br>
-        <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-        <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
-        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-      </p>
-
 
 ---
 
-## 🏆 Featured Projects
+## 🚀 About Me
 
-### 🔗 Dev Connect - Real-time Developer Networking Platform
-**Technologies:** MERN Stack, WebSockets, JWT, AWS EC2 + SES  
-**Key Features:**
-- Real-time messaging with Socket.IO
-- JWT authentication with refresh tokens
-- AWS SES for email notifications
-- CI/CD pipeline with Jenkins
+I'm a .NET Full Stack Developer with 5 years of experience developing secure, cloud-ready, and enterprise-grade web applications using **C#, .NET Core**, **Angular**, **Entity Framework**, and **Azure**. My work spans complex backend services, frontend UI/UX design, and cloud integration. I'm passionate about clean architecture, maintainable code, and scalable systems — with experience in Agile, Test-Driven Development, and Microservices.
 
-**Impact:**  
-✔️ Achieved 90% uptime on AWS EC2 infrastructure. Also implemented hosting docker container with AWS ECS fargate. <br>
-✔️ Reduced latency by 40% with WebSocket implementation. Implemented docker and aws fargate.
-✔️ Automated deployment process reduced release time by 60%.
+---
 
-<p align="center">
-  <a target='_blank' href="https://github.com/saikumar14-08/DevConnect-Web">
-    <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+## 📫 Get in Touch
+
+<p>
+  <a target='_blank' rel="noopener noreferrer" href="mailto:saiboreddy99@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a target='_blank' rel="noopener noreferrer" href="https://www.linkedin.com/in/sai-boreddy/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a target='_blank' rel="noopener noreferrer" href="https://github.com/saikumar14-08">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 🎬 Flix GPT - AI-Powered Movie Recommendation Engine
-**Technologies:** React, Redux, OpenAI API, Firebase  
-**Key Features:**
-- Natural language movie search using OpenAI
-- Firebase authentication
-- Responsive design with Tailwind CSS
-- Movie recommendation engine
+## 🛠 Tech Stack
 
-**Impact:**  
-✔️ 85% accuracy in movie recommendations  
-✔️ 30% increase in user engagement with AI features  
-✔️ Integrated OpenAI's GPT model to enable natural language movie searches (e.g., "sci-fi movies like Interstellar")
+### 🧠 Languages
+`C#` `Python` `TypeScript` `SQL` `JavaScript`
 
-<p align="center">
-  <a target='_blank' href="https://saiflixgpt.netlify.app/">
-    <img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-  </a>
-  <a target='_blank' href="https://github.com/saikumar14-08/flix-gpt">
-    <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+### 💻 Backend
+<img src="https://img.shields.io/badge/.NET Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/WebAPI-00599C?style=for-the-badge&logo=csharp&logoColor=white" />
+
+### 🎨 Frontend
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+
+### 🧱 Database & ETL
+<img src="https://img.shields.io/badge/SQL Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/SSIS-4479A1?style=for-the-badge&logo=microsoft&logoColor=white" />
+
+### ☁️ Cloud & DevOps
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/TFS-0064a5?style=for-the-badge&logo=azuredevops&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+
+---
+
+## 💼 Professional Experience
+
+### 💼 Morgan Stanley — .NET Full Stack Developer (Apr 2024 – Present)
+- Built secure financial applications using **.NET Core 6**, **Angular 9**, and **Azure Cloud**.
+- Developed RESTful APIs, implemented logging with **Application Insights**, and fixed vulnerabilities using **HP Fortify**.
+- Built frontend components using **Angular Material** and **Kendo UI**.
+- Worked with **SQL Server**, created stored procedures, and managed reports using **SSRS**.
+
+### 💼 Novature Tech — .NET Developer (Jan 2022 – Jul 2023)
+- Developed internal modules using **ASP.NET MVC**, **VB.NET**, and **Blazor**.
+- Automated ETL processes with **SSIS** and generated business reports using **SSRS**.
+- Followed **Agile** methodology and used **TFS** for source control and task management.
+
+### 💼 Agility Softek — .NET Developer (Jun 2019 – Dec 2021)
+- Built responsive enterprise applications using **C#**, **MVC 4**, **WCF**, and **AngularJS**.
+- Implemented **dependency injection**, **OOP patterns**, and service-based architecture.
+- Collaborated in Agile teams and practiced **test-driven development**.
+
+---
+
+## 🌟 Featured Skills
+
+- ✅ Enterprise Application Architecture (3-tier, MVC)
+- ✅ REST API Development & Security (Auth, JWT, 2FA)
+- ✅ Azure Cloud Deployments, Azure App Services
+- ✅ Data Access: Entity Framework, LINQ, ADO.NET
+- ✅ Report Generation: SSRS, Crystal Reports
+- ✅ Agile & Test Driven Development (TDD)
 
 ---
 
@@ -112,13 +102,13 @@ values innovation, clean architecture, and impact-driven development.
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a target='_blank' href="mailto:saikumar9808@gmail.com">
+  <a target='_blank' href="mailto:saiboreddy99@gmail.com">
     <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a target='_blank' href="https://www.linkedin.com/in/sai-boreddy/">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn_Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a target='_blank' href="https://github.com/saikumar14-08">
-    <img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub_Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
