@@ -30,31 +30,42 @@ I'm a .NET Full Stack Developer with 5 years of experience developing secure, cl
 
 ## 🛠 Tech Stack
 
-### 🧠 Languages
-`C#` `Python` `TypeScript` `SQL` `JavaScript`
+## 🛠 Tech Stack
 
-### 💻 Backend
-<img src="https://img.shields.io/badge/.NET Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-<img src="https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-<img src="https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" />
-<img src="https://img.shields.io/badge/WebAPI-00599C?style=for-the-badge&logo=csharp&logoColor=white" />
-
-### 🎨 Frontend
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-
-### 🧱 Database & ETL
-<img src="https://img.shields.io/badge/SQL Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-<img src="https://img.shields.io/badge/SSIS-4479A1?style=for-the-badge&logo=microsoft&logoColor=white" />
-
-### ☁️ Cloud & DevOps
-<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/TFS-0064a5?style=for-the-badge&logo=azuredevops&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<table>
+  <tr>
+    <th><img src="https://img.shields.io/badge/-💻%20Backend-blueviolet?style=for-the-badge" /></th>
+    <th><img src="https://img.shields.io/badge/-🎨%20Frontend-critical?style=for-the-badge" /></th>
+    <th><img src="https://img.shields.io/badge/-🧱%20Database-success?style=for-the-badge" /></th>
+    <th><img src="https://img.shields.io/badge/-☁️%20Cloud%20&%20DevOps-ff69b4?style=for-the-badge" /></th>
+  </tr>
+  <tr>
+    <td valign="top">
+      <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Entity_Framework-68217A?style=for-the-badge&logo=.net&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Web_API-00599C?style=for-the-badge&logo=csharp&logoColor=white" />
+    </td>
+    <td valign="top">
+      <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /><br>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+    </td>
+    <td valign="top">
+      <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/SSIS-4479A1?style=for-the-badge&logo=microsoft&logoColor=white" />
+    </td>
+    <td valign="top">
+      <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/TFS-0064a5?style=for-the-badge&logo=azuredevops&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 ---
 
