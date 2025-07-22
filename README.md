@@ -18,7 +18,7 @@ I'm a .NET Full Stack Developer with 5 years of experience developing secure, cl
   <a target='_blank' rel="noopener noreferrer" href="mailto:saiboreddy99@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a target='_blank' rel="noopener noreferrer" href="https://www.linkedin.com/in/sai-boreddy/">
+  <a target='_blank' rel="noopener noreferrer" href="https://www.linkedin.com/in/saikrb/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a target='_blank' rel="noopener noreferrer" href="https://github.com/saikumar14-08">
@@ -115,7 +115,7 @@ I'm a .NET Full Stack Developer with 5 years of experience developing secure, cl
   <a target='_blank' href="mailto:saiboreddy99@gmail.com">
     <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a target='_blank' href="https://www.linkedin.com/in/sai-boreddy/">
+  <a target='_blank' href="https://www.linkedin.com/in/saikrb/">
     <img src="https://img.shields.io/badge/LinkedIn_Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a target='_blank' href="https://github.com/saikumar14-08">
