@@ -27,17 +27,14 @@ I'm a .NET Full Stack Developer with 5 years of experience developing secure, cl
 </p>
 
 ---
-
-## 🛠 Tech Stack
-
 ## 🛠 Tech Stack
 
 <table>
   <tr>
-    <th><img src="https://img.shields.io/badge/-💻%20Backend-blueviolet?style=for-the-badge" /></th>
-    <th><img src="https://img.shields.io/badge/-🎨%20Frontend-critical?style=for-the-badge" /></th>
-    <th><img src="https://img.shields.io/badge/-🧱%20Database-success?style=for-the-badge" /></th>
-    <th><img src="https://img.shields.io/badge/-☁️%20Cloud%20&%20DevOps-ff69b4?style=for-the-badge" /></th>
+    <th><strong>💻 Backend</strong></th>
+    <th><strong>🎨 Frontend</strong></th>
+    <th><strong>🧱 Database</strong></th>
+    <th><strong>☁️ Cloud & DevOps</strong></th>
   </tr>
   <tr>
     <td valign="top">
@@ -66,6 +63,8 @@ I'm a .NET Full Stack Developer with 5 years of experience developing secure, cl
     </td>
   </tr>
 </table>
+
+
 
 ---
 
